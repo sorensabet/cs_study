@@ -1,0 +1,1 @@
+This is a new file in master after I created a hotfix branch in the last commit

@@ -1,0 +1,3 @@
+This is a file with something that fixes the problem in production
+This is another line made from the hotfix branch after it was already merged to master
+Change 3`
